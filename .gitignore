@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+~$*.xlsx
+
+# Secrets (never commit Snowflake credentials)
+.env
+*.pem
+*.p8
+profiles.yml
+.snowsql/
+
+# Source data (check the Kaggle license before committing)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
