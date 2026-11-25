@@ -69,7 +69,7 @@ Run all commands from the repository root.
 
 ## Data source
 
-Source dataset: [DATASET NAME AND LINK ON KAGGLE]. The raw file is not redistributed here; download it from the link above. All employee-level history (dates, managers, locations, terminations) is **synthetic**. No real employee data is used.
+Source dataset: HR_Analytics, link: https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset. The raw file is not redistributed here; download it from the link above. All employee-level history (dates, managers, locations, terminations) is **synthetic**. No real employee data is used.
 
 ## Privacy by design
 
