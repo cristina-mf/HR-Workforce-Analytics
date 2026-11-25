@@ -1,0 +1,13 @@
+org_unit_id,org_unit_name,department,location_id
+HR-ATL,Human Resources - Atlanta,Human Resources,L04
+HR-AUS,Human Resources - Austin,Human Resources,L03
+HR-CHI,Human Resources - Chicago,Human Resources,L02
+HR-NYC,Human Resources - New York,Human Resources,L01
+RD-ATL,Research & Development - Atlanta,Research & Development,L04
+RD-AUS,Research & Development - Austin,Research & Development,L03
+RD-CHI,Research & Development - Chicago,Research & Development,L02
+RD-NYC,Research & Development - New York,Research & Development,L01
+SL-ATL,Sales - Atlanta,Sales,L04
+SL-AUS,Sales - Austin,Sales,L03
+SL-CHI,Sales - Chicago,Sales,L02
+SL-NYC,Sales - New York,Sales,L01

@@ -1,0 +1,7 @@
+error_id,table,record_key,field,original_value,injected_value,description,expected_dq_check
+E1,hris_employees,RM1023,employee_id,1 row,2 identical rows,Duplicate employee record,Uniqueness of employee_id
+E2,hris_terminations,RM415,termination_date,2024-03-08,2018-10-29,Termination date 30 days before hire date,Date logic: termination_date > hire_date
+E3,hris_employees,RM354,manager_id,RM938,RM9999,Manager ID that does not exist,Referential integrity: manager_id in employees
+E4,hris_job_history,RM501,job_level,2,3,Two conflicting job records with the same effective date,Overlapping assignments: one record per employee per effective_date
+E5,hris_terminations,RM338,employee_id,no termination record,2024-09-24,Employee is Active but has a termination record,Status consistency: employment_status vs terminations
+E6,hris_employees,RM491,hire_date,2025-11-07,2026-03-16,Hire date after the as-of date (future-dated hire),Date logic: hire_date <= as-of date

@@ -1,0 +1,239 @@
+employee_id,termination_date,termination_type,termination_reason
+RM297,2024-03-06,Voluntary,Resignation - career growth
+RM458,2025-07-18,Voluntary,Relocation / personal
+RM829,2025-04-23,Voluntary,Resignation - better opportunity
+RM1154,2024-11-15,Voluntary,Resignation - better opportunity
+RM128,2024-11-12,Voluntary,Relocation / personal
+RM172,2025-09-19,Voluntary,Resignation - career growth
+RM178,2024-03-01,Involuntary,Dismissal - conduct
+RM423,2025-05-23,Voluntary,Resignation - compensation
+RM689,2024-05-27,Involuntary,Dismissal - performance
+RM893,2024-03-08,Voluntary,Resignation - career growth
+RM103,2025-01-17,Involuntary,Dismissal - performance
+RM514,2025-12-12,Voluntary,Resignation - work-life balance
+RM663,2025-06-20,Voluntary,Resignation - better opportunity
+RM690,2025-07-10,Voluntary,Resignation - better opportunity
+RM732,2025-06-06,Voluntary,Resignation - career growth
+RM777,2025-07-28,Voluntary,Resignation - compensation
+RM358,2025-01-10,Voluntary,Resignation - compensation
+RM371,2024-04-03,Voluntary,Resignation - career growth
+RM664,2025-09-05,Voluntary,Resignation - career growth
+RM778,2024-11-25,Involuntary,Layoff / restructuring
+RM916,2024-12-31,Voluntary,Resignation - work-life balance
+RM1272,2024-09-27,Involuntary,End of contract
+RM444,2024-05-13,Voluntary,Resignation - compensation
+RM667,2025-11-07,Voluntary,Resignation - career growth
+RM861,2025-07-25,Voluntary,Resignation - better opportunity
+RM1274,2025-04-15,Voluntary,Resignation - work-life balance
+RM1340,2024-10-21,Voluntary,Resignation - career growth
+RM586,2025-08-22,Voluntary,Resignation - compensation
+RM1202,2025-01-31,Voluntary,Resignation - better opportunity
+RM1214,2024-11-20,Voluntary,Resignation - career growth
+RM1439,2024-11-25,Voluntary,Resignation - better opportunity
+RM035,2024-06-14,Voluntary,Resignation - career growth
+RM415,2018-10-29,Voluntary,Resignation - career growth
+RM480,2025-02-07,Voluntary,Resignation - better opportunity
+RM526,2025-10-10,Voluntary,Resignation - career growth
+RM872,2024-02-16,Involuntary,Dismissal - performance
+RM1061,2025-09-19,Voluntary,Resignation - career growth
+RM1223,2025-08-27,Voluntary,Resignation - compensation
+RM108,2024-07-19,Voluntary,Resignation - better opportunity
+RM406,2025-04-04,Voluntary,Resignation - better opportunity
+RM684,2024-04-30,Involuntary,Dismissal - performance
+RM797,2025-07-08,Voluntary,Resignation - better opportunity
+RM912,2025-05-27,Voluntary,Resignation - better opportunity
+RM1022,2024-09-16,Voluntary,Resignation - better opportunity
+RM043,2024-02-19,Voluntary,Resignation - better opportunity
+RM289,2025-12-10,Voluntary,Resignation - better opportunity
+RM294,2024-11-21,Voluntary,Resignation - career growth
+RM383,2025-10-14,Voluntary,Resignation - better opportunity
+RM454,2025-05-09,Involuntary,Layoff / restructuring
+RM464,2025-07-22,Voluntary,Resignation - compensation
+RM574,2025-07-09,Voluntary,Resignation - better opportunity
+RM615,2024-05-22,Voluntary,Resignation - career growth
+RM749,2024-09-23,Voluntary,Relocation / personal
+RM763,2024-12-06,Voluntary,Resignation - better opportunity
+RM798,2024-12-27,Voluntary,Resignation - better opportunity
+RM1298,2024-02-02,Involuntary,Layoff / restructuring
+RM496,2025-02-03,Involuntary,Dismissal - conduct
+RM998,2024-04-22,Voluntary,Resignation - better opportunity
+RM1380,2025-06-27,Voluntary,Relocation / personal
+RM015,2025-05-14,Voluntary,Resignation - compensation
+RM052,2025-11-05,Voluntary,Resignation - career growth
+RM265,2025-06-27,Voluntary,Resignation - career growth
+RM324,2024-09-25,Voluntary,Relocation / personal
+RM541,2025-12-08,Voluntary,Resignation - better opportunity
+RM599,2024-10-25,Voluntary,Relocation / personal
+RM781,2024-08-26,Involuntary,Dismissal - conduct
+RM801,2025-10-23,Voluntary,Resignation - better opportunity
+RM843,2024-09-27,Voluntary,Resignation - better opportunity
+RM1057,2024-02-23,Voluntary,Resignation - career growth
+RM1069,2024-12-09,Voluntary,Resignation - better opportunity
+RM1137,2025-08-04,Voluntary,Resignation - better opportunity
+RM1370,2024-05-17,Voluntary,Resignation - better opportunity
+RM1391,2024-12-04,Voluntary,Resignation - better opportunity
+RM206,2024-04-04,Voluntary,Resignation - career growth
+RM218,2025-05-16,Voluntary,Resignation - compensation
+RM230,2024-12-13,Voluntary,Resignation - better opportunity
+RM337,2024-08-29,Voluntary,Resignation - better opportunity
+RM422,2024-06-14,Involuntary,Dismissal - performance
+RM590,2025-02-14,Voluntary,Resignation - better opportunity
+RM646,2025-05-02,Voluntary,Resignation - better opportunity
+RM712,2025-11-18,Involuntary,Dismissal - performance
+RM837,2024-11-15,Involuntary,Layoff / restructuring
+RM933,2024-04-26,Voluntary,Resignation - better opportunity
+RM1008,2025-08-29,Voluntary,Relocation / personal
+RM1058,2025-04-04,Involuntary,Dismissal - performance
+RM1078,2025-05-26,Voluntary,Resignation - better opportunity
+RM1250,2024-03-12,Voluntary,Resignation - compensation
+RM1314,2024-08-16,Voluntary,Resignation - better opportunity
+RM1333,2025-07-15,Involuntary,Layoff / restructuring
+RM1366,2025-08-29,Voluntary,Resignation - better opportunity
+RM1443,2024-11-14,Involuntary,Dismissal - conduct
+RM215,2025-08-11,Voluntary,Resignation - better opportunity
+RM217,2025-09-05,Involuntary,Dismissal - conduct
+RM386,2024-10-10,Involuntary,Layoff / restructuring
+RM481,2025-10-17,Voluntary,Resignation - career growth
+RM721,2024-07-29,Involuntary,Dismissal - performance
+RM733,2024-06-24,Voluntary,Resignation - career growth
+RM1107,2025-05-13,Voluntary,Resignation - compensation
+RM1247,2025-04-10,Voluntary,Resignation - compensation
+RM1339,2024-04-12,Voluntary,Resignation - better opportunity
+RM125,2025-08-29,Involuntary,Dismissal - performance
+RM133,2024-05-24,Voluntary,Resignation - work-life balance
+RM260,2025-08-11,Voluntary,Resignation - better opportunity
+RM440,2024-01-05,Voluntary,Resignation - compensation
+RM483,2025-08-05,Voluntary,Resignation - better opportunity
+RM710,2025-07-29,Involuntary,Dismissal - performance
+RM832,2025-07-24,Voluntary,Resignation - compensation
+RM953,2025-05-01,Voluntary,Resignation - better opportunity
+RM981,2024-12-10,Involuntary,Layoff / restructuring
+RM986,2025-05-30,Voluntary,Resignation - career growth
+RM1013,2024-07-19,Voluntary,Resignation - better opportunity
+RM1017,2025-07-24,Voluntary,Resignation - compensation
+RM1034,2025-02-10,Voluntary,Resignation - career growth
+RM1037,2024-11-29,Voluntary,Resignation - better opportunity
+RM1086,2025-01-03,Voluntary,Resignation - career growth
+RM1258,2025-02-19,Voluntary,Resignation - career growth
+RM1313,2024-01-26,Voluntary,Resignation - career growth
+RM1396,2024-04-12,Voluntary,Resignation - better opportunity
+RM027,2024-06-28,Voluntary,Relocation / personal
+RM141,2024-03-22,Voluntary,Resignation - compensation
+RM211,2024-11-15,Voluntary,Resignation - better opportunity
+RM240,2025-05-02,Involuntary,Layoff / restructuring
+RM470,2025-04-23,Voluntary,Resignation - compensation
+RM657,2024-12-10,Voluntary,Resignation - career growth
+RM940,2025-09-17,Voluntary,Resignation - better opportunity
+RM1206,2025-02-17,Voluntary,Resignation - compensation
+RM1238,2024-02-27,Voluntary,Resignation - better opportunity
+RM1327,2025-07-11,Involuntary,Dismissal - performance
+RM1376,2025-02-24,Voluntary,Resignation - better opportunity
+RM235,2025-04-08,Voluntary,Resignation - better opportunity
+RM237,2025-02-17,Voluntary,Resignation - career growth
+RM364,2025-02-07,Voluntary,Resignation - work-life balance
+RM436,2024-03-07,Voluntary,Resignation - career growth
+RM437,2025-02-12,Voluntary,Resignation - career growth
+RM515,2025-08-04,Involuntary,Dismissal - performance
+RM563,2024-08-09,Voluntary,Resignation - better opportunity
+RM592,2025-03-14,Voluntary,Relocation / personal
+RM793,2024-01-23,Voluntary,Resignation - compensation
+RM799,2024-09-11,Involuntary,Layoff / restructuring
+RM830,2024-11-15,Involuntary,Dismissal - performance
+RM1256,2025-12-19,Voluntary,Resignation - better opportunity
+RM025,2024-06-05,Voluntary,Resignation - better opportunity
+RM112,2024-07-19,Voluntary,Resignation - better opportunity
+RM379,2024-10-25,Voluntary,Resignation - better opportunity
+RM416,2025-12-26,Voluntary,Resignation - better opportunity
+RM441,2025-09-15,Voluntary,Resignation - career growth
+RM1040,2024-01-26,Voluntary,Resignation - better opportunity
+RM1059,2024-06-20,Voluntary,Resignation - better opportunity
+RM1291,2025-08-22,Voluntary,Resignation - better opportunity
+RM1354,2024-02-12,Involuntary,Dismissal - performance
+RM193,2025-09-17,Voluntary,Resignation - career growth
+RM637,2024-07-24,Voluntary,Resignation - better opportunity
+RM726,2025-10-31,Voluntary,Resignation - work-life balance
+RM792,2024-08-02,Voluntary,Resignation - career growth
+RM982,2024-11-13,Voluntary,Resignation - better opportunity
+RM1111,2025-04-28,Voluntary,Resignation - better opportunity
+RM1163,2024-04-02,Voluntary,Resignation - better opportunity
+RM1168,2025-02-11,Involuntary,Dismissal - performance
+RM1187,2025-01-03,Voluntary,Resignation - work-life balance
+RM1282,2025-07-25,Voluntary,Relocation / personal
+RM022,2025-12-29,Voluntary,Resignation - compensation
+RM070,2025-04-30,Voluntary,Resignation - career growth
+RM694,2024-10-25,Voluntary,Resignation - work-life balance
+RM753,2024-10-24,Involuntary,Layoff / restructuring
+RM762,2024-11-01,Voluntary,Resignation - compensation
+RM1237,2025-08-18,Voluntary,Resignation - better opportunity
+RM003,2024-08-22,Voluntary,Resignation - career growth
+RM101,2024-05-02,Voluntary,Resignation - better opportunity
+RM251,2024-08-30,Voluntary,Resignation - compensation
+RM696,2024-01-17,Voluntary,Resignation - work-life balance
+RM745,2024-03-18,Voluntary,Resignation - better opportunity
+RM1292,2024-03-06,Voluntary,Resignation - career growth
+RM205,2025-07-18,Voluntary,Relocation / personal
+RM1113,2025-06-12,Voluntary,Resignation - better opportunity
+RM034,2025-05-23,Voluntary,Resignation - career growth
+RM328,2024-12-03,Involuntary,Layoff / restructuring
+RM670,2025-06-06,Voluntary,Relocation / personal
+RM814,2024-04-26,Voluntary,Resignation - compensation
+RM941,2025-10-20,Involuntary,Dismissal - performance
+RM1033,2025-01-01,Involuntary,Dismissal - performance
+RM369,2025-11-14,Voluntary,Resignation - compensation
+RM707,2024-04-19,Involuntary,Dismissal - performance
+RM947,2024-12-27,Involuntary,Dismissal - performance
+RM1084,2025-05-23,Voluntary,Resignation - compensation
+RM1172,2024-12-27,Voluntary,Resignation - career growth
+RM001,2024-11-22,Voluntary,Resignation - compensation
+RM046,2024-05-01,Voluntary,Resignation - better opportunity
+RM183,2024-10-04,Involuntary,Layoff / restructuring
+RM367,2024-06-21,Involuntary,Layoff / restructuring
+RM668,2024-08-08,Involuntary,Dismissal - performance
+RM865,2025-05-14,Voluntary,Resignation - career growth
+RM548,2025-04-04,Voluntary,Resignation - better opportunity
+RM839,2025-03-19,Voluntary,Relocation / personal
+RM850,2024-09-20,Voluntary,Resignation - better opportunity
+RM1263,2025-12-02,Involuntary,Dismissal - performance
+RM287,2024-03-05,Voluntary,Resignation - work-life balance
+RM790,2024-09-06,Voluntary,Relocation / personal
+RM858,2024-03-27,Involuntary,Layoff / restructuring
+RM929,2024-09-04,Voluntary,Resignation - better opportunity
+RM954,2025-12-04,Involuntary,Layoff / restructuring
+RM1280,2024-09-24,Voluntary,Resignation - better opportunity
+RM505,2025-10-24,Voluntary,Resignation - better opportunity
+RM914,2024-12-27,Involuntary,Dismissal - performance
+RM090,2025-05-26,Voluntary,Relocation / personal
+RM1032,2024-11-29,Voluntary,Resignation - better opportunity
+RM1299,2024-07-12,Voluntary,Resignation - better opportunity
+RM1334,2025-07-11,Voluntary,Resignation - better opportunity
+RM272,2025-12-09,Voluntary,Resignation - better opportunity
+RM567,2024-07-11,Voluntary,Resignation - better opportunity
+RM1224,2025-07-23,Involuntary,Dismissal - performance
+RM051,2024-07-09,Voluntary,Relocation / personal
+RM1205,2025-06-06,Voluntary,Resignation - compensation
+RM608,2025-07-30,Involuntary,Dismissal - conduct
+RM1007,2024-11-22,Voluntary,Resignation - career growth
+RM037,2025-06-20,Voluntary,Resignation - better opportunity
+RM529,2024-07-18,Voluntary,Resignation - better opportunity
+RM802,2024-02-27,Involuntary,Dismissal - performance
+RM1453,2024-03-11,Voluntary,Resignation - compensation
+RM1462,2024-11-22,Involuntary,Dismissal - performance
+RM137,2025-10-21,Voluntary,Resignation - better opportunity
+RM780,2024-04-03,Voluntary,Resignation - compensation
+RM318,2024-11-29,Involuntary,Dismissal - performance
+RM750,2025-05-29,Voluntary,Resignation - better opportunity
+RM948,2024-05-27,Voluntary,Resignation - compensation
+RM1112,2025-06-11,Voluntary,Resignation - better opportunity
+RM1397,2024-08-09,Voluntary,Resignation - better opportunity
+RM569,2025-08-14,Voluntary,Resignation - compensation
+RM609,2025-02-27,Voluntary,Resignation - better opportunity
+RM976,2025-02-03,Involuntary,Layoff / restructuring
+RM123,2024-05-09,Involuntary,Layoff / restructuring
+RM1355,2024-12-04,Voluntary,Resignation - compensation
+RM1445,2025-09-18,Voluntary,Retirement
+RM127,2024-01-15,Voluntary,Resignation - better opportunity
+RM596,2025-07-08,Voluntary,Resignation - better opportunity
+RM661,2024-12-26,Voluntary,Resignation - better opportunity
+RM701,2025-06-09,Voluntary,Retirement
+RM967,2025-04-29,Voluntary,Resignation - better opportunity
+RM338,2024-09-24,Voluntary,Resignation - better opportunity
